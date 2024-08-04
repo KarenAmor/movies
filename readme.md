@@ -25,7 +25,7 @@ uvicorn main:app --reload
 
 
 Link del swagger
-[Movies](https://movies-1-16a7.onrender.com/docs))
+[Movies](https://movies-1-16a7.onrender.com/docs)
 
 
 
