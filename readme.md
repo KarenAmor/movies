@@ -11,6 +11,11 @@ Este proyecto es una API CRUD para gestionar una base de datos de películas. La
 - SQLite
 - PyJWT
 
+# Documentación
+
+Link del swagger
+[Movies](https://movies-1-16a7.onrender.com/docs)
+
 ## Instalación en Local
 
 1. Clona el repositorio:
@@ -21,12 +26,5 @@ Este proyecto es una API CRUD para gestionar una base de datos de películas. La
 
 python -m venv venv
 source venv/bin/activate  
-# En Windows: venv\Scripts\activate
+## En Windows: venv\Scripts\activate
 uvicorn main:app --reload
-
-
-Link del swagger
-[Movies](https://movies-1-16a7.onrender.com/docs)
-
-
-
