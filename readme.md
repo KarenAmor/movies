@@ -16,7 +16,7 @@ Este proyecto es una API CRUD para gestionar una base de datos de películas. La
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/KarenAmor/movies.git
-    ```bash
+    ```
    cd movies
 
 python -m venv venv
