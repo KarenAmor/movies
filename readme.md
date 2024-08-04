@@ -21,10 +21,11 @@ Este proyecto es una API CRUD para gestionar una base de datos de películas. La
 python -m venv venv
 source venv/bin/activate  
 # En Windows: venv\Scripts\activate
+uvicorn main:app --reload
 
 
 Link del swagger
-[documentacion del api](https://movies-1-16a7.onrender.com/docs))
+[Movies](https://movies-1-16a7.onrender.com/docs))
 
 
-uvicorn main:app --reload
+
