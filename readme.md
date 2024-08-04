@@ -24,7 +24,7 @@ source venv/bin/activate
 
 
 Link del swagger
-[documentacion del api]([url](https://movies-1-16a7.onrender.com/docs))
+[documentacion del api](https://movies-1-16a7.onrender.com/docs))
 
 
 uvicorn main:app --reload
